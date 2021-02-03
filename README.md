@@ -1,4 +1,4 @@
-# Hearthstone
+# Hearthstone Game
 CSEN 401 - Computer Programming Lab course 
 
 Demo:
